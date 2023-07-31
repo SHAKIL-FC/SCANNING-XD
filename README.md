@@ -1,5 +1,5 @@
-print"(SCANNING)"
-rm -rf SCANNING
+# SCANNING
+# rm -rf SCANNING
 # git clone https://github.com/SHAKIL-FC/SCANNING.git
 # git pull
 # cd SCANNING
