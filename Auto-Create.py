@@ -229,7 +229,7 @@ def R():
 
 			elif key in ["2", "02"]:
 
-				os.system("rm rf-Temp-Mail && git clone https://github.com/SHAKIL-FC/Temp-Mail && cd Temp-Mail && python3 auto_Mahadi-1.py")
+				os.system("rm -rf Temp-Mail && git clone https://github.com/SHAKIL-FC/Temp-Mail && cd Temp-Mail && python3 auto_Mahadi-1.py")
 
 			#elif key in ["4", "04"]:
 				dupcutter()
